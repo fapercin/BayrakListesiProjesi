@@ -1,3 +1,5 @@
-# BayrakListesiProjesi
+# Mobil Uygulamada Java ile Listeleme
 
-Doesn't work. 
+Tekrar inceleyip düzenlemek için Github'a atmışım ve 4 yıldır olduğu gibi duruyor.
+
+Bir ara dönüp bakacağım.
